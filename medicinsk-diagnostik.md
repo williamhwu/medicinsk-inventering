@@ -1,1 +1,1 @@
-[Klinisk kemi](klinisk-kemi)
+[Klinisk kemi](klinisk-kemi.md)
