@@ -1,4 +1,8 @@
 
+https://play.ki.se/home
+
+https://www.seterra.com
+
 https://www.internetmedicin.se  
 https://www.hus75.se  
 https://pepdraw.com  
