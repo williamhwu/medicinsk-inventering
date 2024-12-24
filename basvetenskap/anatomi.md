@@ -10,3 +10,4 @@ https://www.vhlab.umn.edu/atlas/index.shtml
 
 https://iaotartu.com  
 
+https://www.latin-is-simple.com
