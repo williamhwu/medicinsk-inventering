@@ -11,3 +11,5 @@ https://vardpersonal.1177.se
 
 https://kunskapsstodforvardgivare.se/omraden/hjart--och-karlsjukdomar/behandlingsprogram/akut-hjartsjukvard/om-behandlingsprogrammet/
 https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines  
+
+https://riktlinjer.svenskreumatologi.se  
