@@ -2,6 +2,7 @@
 https://kunskapsstodforvardgivare.se  
 https://kunskapsstodforvardgivare.se/omraden/akut-vard/behandlingshandbocker/akut-internmedicin  
 https://janusinfo.se  
+https://www.youtube.com/watch?v=RVtyZpACWV0&list=PLOCA-YysHPndwWvrsao6z8UNCV8HUXL93&themeRefresh=1  
 https://klokalistan.se  
 https://www.viss.nu  
 https://kunskapsbanken.cancercentrum.se  
