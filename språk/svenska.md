@@ -2,6 +2,7 @@
 https://svenska.se/grammatik/  
 T. G. Hultman-Svenska Akademiens språklära  
 A. Lilija-Svensk verslära  
+https://www.diva-portal.org/smash/get/diva2:1829117/FULLTEXT04.pdf  
 
 http://www.fritext.se/svenska/grammfs.html  
 Meningsbyggnad-Ordföljd  
