@@ -34,3 +34,5 @@ https://neurologforeningen.org/neurologforeningen/utbildning/lakarprogrammet/
 https://slf.se/sfbup/utveckling/forelasningsmaterial/  
 https://www.kardiologi.se  
 
+https://liv.learnifier.com/login/?redirect=https%3A%2F%2Fliv.learnifier.com%2Fa1%2Fcatalog%2Fsession%2F19af97e4-d599-456b-bd98-ca3b965decd8  
+https://fmtk.forsvarsmakten.se/traning  
