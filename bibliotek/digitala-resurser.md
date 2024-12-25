@@ -17,3 +17,17 @@ https://practical-haemostasis.com
 
 http://karlkirurgi.se/varicer/  
 https://dndi.org  
+
+https://www.camm.regionstockholm.se/faktablad  
+https://www.ncbi.nlm.nih.gov/books/NBK201/  
+https://svfp.se/utbildning/larande-pa-internet/  
+https://www.sls.se/sfkf/utbildning/sfkf-play/  
+https://slmf.se/kunskap-dokument/forelasningar/on-demand-forelasningar/#  
+https://onkologi.org/utbildning-forskning/fortbildning/forelasningar/#  
+https://backenbottenutbildning.se  
+https://www.sundhed.dk/sundhedsfaglig/opslag-og-vaerktoejer/laereboeger/obstetrics-gynecology/  
+https://ctgutbildning.se  
+https://neurologforeningen.org/neurologforeningen/utbildning/lakarprogrammet/  
+https://slf.se/sfbup/utveckling/forelasningsmaterial/  
+https://www.kardiologi.se  
+
