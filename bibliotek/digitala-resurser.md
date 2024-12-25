@@ -1,6 +1,9 @@
 
 https://lartorget.sll.se/login.html?g=08213ca7-5e20-4caa-9f4a-c1e20329ba87  
 https://play.ki.se/home  
+https://ki.se/lime/eat-provet  
+https://www.viktigtpariktigt.nu/index.php  
+https://researcherblogs.ki.se  
 
 https://www.seterra.com  
 https://pepdraw.com  
