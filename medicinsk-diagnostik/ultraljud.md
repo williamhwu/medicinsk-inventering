@@ -6,3 +6,5 @@ https://www.thepocusatlas.com
 https://coreultrasound.com  
 https://www.ekokardiografi.se  
 https://sim.nu/ny-arbetsgrupp-pocus/  
+https://litfl.com/the-best-online-echocardiography-courses/  
+https://deepbreathe.ai/blog/lung-ultrasound-artifacts  
