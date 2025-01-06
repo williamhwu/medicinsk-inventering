@@ -1,6 +1,9 @@
 
 # Instudering
 
+https://slf.se/swesem/app/uploads/2019/03/differentialdiagnostik-190211.pdf  
+https://youtu.be/RXfQTwpTusI  
+
 https://hsrc.himmelfarb.gwu.edu/cgi/viewcontent.cgi?article=1021&context=elearning  
 https://www.umassmed.edu/globalassets/clinical-faculty-development-center/nov-2017-w1t1-materials/10e-differential-dx-strategies---online.pdf  
 https://pmc.ncbi.nlm.nih.gov/articles/PMC4853007/  
