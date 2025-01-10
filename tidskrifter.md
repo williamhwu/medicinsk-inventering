@@ -1,5 +1,6 @@
 
 [Läkartidningen](https://etidning.lakartidningen.se/)  
+[Sjukhusläkaren](https://sjukhuslakaren.prenly.com)  
 [Evidens](https://janusinfo.se/nyheter/tidningenevidens/allanummer.4.3b806372164f5b478956c57.html)  
 [1177](https://www.e-magin.se/paper/xkmmjq2j/paper#/title/vsvtm916)  
 [Medicinsk vetenskap](https://nyheter.ki.se/tidningen-medicinsk-vetenskap/arkiv-tidskriften-medicinsk-vetenskap)  
