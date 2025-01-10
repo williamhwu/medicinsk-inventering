@@ -24,7 +24,7 @@
 
 [Dermatologi & Venereologi](https://www.ssdv.se/medlemstidning-d-v)  
 [Infektionsläkaren](https://etidning.infektion.net/search?title=all)  
-[Cancerläkaren]([https://etidning.onkologi.org](https://etidning.onkologi.org/search?title=1911))  
+[Cancerläkaren](https://etidning.onkologi.org](https://etidning.onkologi.org/search?title=1911))  
 [Reumabulletinen](https://etidning.svenskreumatologi.se/search?title=all)  
 
 # Kirurgiska
