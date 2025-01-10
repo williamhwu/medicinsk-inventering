@@ -16,7 +16,7 @@
 # Invärtesmedicinska
 
 [Vaskulär medicin](https://etidning.hypertoni.org/search?title=all)  
-[Lung % Allergiforum](https://etidning.slmf.se/search?title=all)  
+[Lung & Allergiforum](https://etidning.slmf.se/search?title=all)  
 [Oss Hematologer Emellan](https://www.sfhem.se/oss-hematologer-emellan)  
 [Gastrokuriren](https://etidning.svenskgastroenterologi.se/search?title=all)  
 
