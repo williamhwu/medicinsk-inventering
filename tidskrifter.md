@@ -36,4 +36,4 @@
 [Kvinnoläkaren](https://www.sfog.se/start/kvinnolaekaren/kvinnolaekaren/)  
 [Ett Ögonblick](https://swedeye.org/ett-ogonblick/arkiv/)  
 [Svensk Psykiatri](https://www.svenskpsykiatri.se/tidsskriften/tidigare-nummer/)  
-[Bulletin](https://svenskberoendemedicin.se/arkiv/)  
+[Beroendemedicin](https://svenskberoendemedicin.se/arkiv/)  
