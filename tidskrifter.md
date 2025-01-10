@@ -35,5 +35,8 @@
 [Svensk Urologi](https://etidning.urologi.org/search?title=all)  
 [Kvinnoläkaren](https://www.sfog.se/start/kvinnolaekaren/kvinnolaekaren/)  
 [Ett Ögonblick](https://swedeye.org/ett-ogonblick/arkiv/)  
+
+# Psykiatriska  
+
 [Svensk Psykiatri](https://www.svenskpsykiatri.se/tidsskriften/tidigare-nummer/)  
 [Beroendemedicin](https://svenskberoendemedicin.se/arkiv/)  
