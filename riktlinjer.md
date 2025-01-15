@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=RVtyZpACWV0&list=PLOCA-YysHPndwWvrsao6z8UNCV8HUX
 https://klokalistan.se  
 https://www.viss.nu  
 https://kunskapsbanken.cancercentrum.se  
+https://giftinformation.se/lakare/  
 
 https://www.vardhandboken.se/om/om-vardhandboken/alla-amnen-a-o/  
 https://vardpersonal.1177.se  
