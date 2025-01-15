@@ -32,6 +32,7 @@ https://njurmed.se
 https://svenskgeriatriskforening.se  
 https://www.sffa.nu/ssa/  
 https://slf.se/swesem/  
+https://www.ssth.se  
 
 https://www.ssdv.se  
 https://infektion.net  
