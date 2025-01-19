@@ -1,75 +1,76 @@
 
-https://sfam.se  
-https://slf.se/svensk-arbets-och-miljomedicinsk-forening/  
-https://www.sls.se/socialmedicin  
-https://www.svrmf.se  
-https://slf.se/svensk-forening-for-palliativ-medicin/  
-https://slf.se/svenska-skollakarforeningen/  
-https://slf.se/svenska-smartlakarforeningen/  
-https://slf.se/svenska-hygienlakarforeningen/  
-https://sfvh.se  
+[Allmänmedicin](https://sfam.se)  
+[Arbets- och miljömedicin](https://slf.se/svensk-arbets-och-miljomedicinsk-forening/)  
+[Socialmedicin](https://www.sls.se/socialmedicin)  
+[Rättsmedicin](https://www.svrmf.se)  
+[Palliativ medicin](https://slf.se/svensk-forening-for-palliativ-medicin/)  
+[Skolläkare](https://slf.se/svenska-skollakarforeningen/)  
+[Smärtläkare](https://slf.se/svenska-smartlakarforeningen/)  
+[Hygienläkare](https://slf.se/svenska-hygienlakarforeningen/)  
+[Vårdhygien](https://sfvh.se)  
 
-https://www.sls.se/sfkf  
-https://slf.se/sfmr/  
-https://www.sfnr.org  
-https://sfnm.se  
+[Klinisk fysiologi](https://www.sls.se/sfkf)  
+[Medicinsk radiologi](https://slf.se/sfmr/)  
+[Neuroradiologi](https://www.sfnr.org)  
+[Nuklearmedicin](https://sfnm.se)  
 
-https://www.kliniskkemi.org  
-https://www.mikrobiologi.net/homepage/homepage.php  
-https://www.kitm.se/category/nyheter/  
-https://svfp.se  
-https://www.svfkc.se  
-https://www.sls.se/sfbkf/  
-https://sfmg.se  
+[Klinisk kemi](https://www.kliniskkemi.org)  
+[Klinisk mikrobiologi](https://www.mikrobiologi.net/homepage/homepage.php)  
+[Klinisk immunologi och transfusionsmedicin](https://www.kitm.se/category/nyheter/)  
+[Klinisk patologi](https://svfp.se)  
+[Klinisk cytologi](https://www.svfkc.se)  
+[Klinisk farmakologi](https://www.sls.se/sfbkf/)  
+[Medicinsk genetik](https://sfmg.se)  
 
-https://sim.nu  
-https://www.sls.se/SVKF/  
-https://slmf.se/#  
-https://www.sfhem.se  
-https://endokrinologforeningen.se  
-https://svenskgastroenterologi.se  
-https://njurmed.se  
-https://svenskgeriatriskforening.se  
-https://www.sffa.nu/ssa/  
-https://slf.se/swesem/  
-https://www.ssth.se  
+[Internmedicin](https://sim.nu)  
+[Kardiologi](https://www.sls.se/SVKF/)  
+[Lungmedicin](https://slmf.se/#)  
+[Hematologi](https://www.sfhem.se)  
+[Endokrinologi och diabetologi](https://endokrinologforeningen.se)  
+[Medicinsk gastroenterologi och hepatologi](https://svenskgastroenterologi.se)  
+[Njurmedicin](https://njurmed.se)  
+[Geriatrik](https://svenskgeriatriskforening.se)  
+[Allergologi](https://www.sffa.nu/ssa/)  
+[Trombos och hemostas](https://www.ssth.se)  
 
-https://www.ssdv.se  
-https://infektion.net  
-https://onkologi.org/#  
-https://svenskreumatologi.se/#  
+[Akutmedicin](https://slf.se/swesem/)  
+[Dermatologi och venereologi](https://www.ssdv.se)  
+[Infektionssjukdomar](https://infektion.net)  
+[Onkologi](https://onkologi.org/#)  
+[Reumatologi](https://svenskreumatologi.se/#)  
 
-https://www.barnlakarforeningen.se  
-https://neo.barnlakarforeningen.se  
+[Barn- och ungdomsmedicin](https://www.barnlakarforeningen.se)  
+[Neonatologi](https://neo.barnlakarforeningen.se)  
 
-https://svenskkirurgiskforening.se  
-https://slf.se/sof/  
-https://www.sls.se/STF/  
-https://ssvs.nu  
-https://slf.se/spkf/  
-https://sfai.se  
-https://slf.se/svensk-handkirurgisk-forening/  
-https://urologi.org/#  
-https://www.sfog.se/start/  
-https://swedeye.org  
-https://www.svenskonh.se  
-https://slf.se/smaf/  
-https://www.foniater.se  
-https://slf.se/svensk-barnkirurgisk-forening/  
+[Anestesi och intensivvård](https://sfai.se)  
+[Kirurgi](https://svenskkirurgiskforening.se)  
+[Ortopedi](https://slf.se/sof/)  
+[Handkirurgi](https://slf.se/svensk-handkirurgisk-forening/)  
+[Thoraxkirurgi](https://www.sls.se/STF/)  
+[Kärlkirurgi](https://ssvs.nu)  
+[Plastikkirurgi](https://slf.se/spkf/)  
+[Urologi](https://urologi.org/#)  
+[Obstetrik och gynekologi](https://www.sfog.se/start/)  
+[Ögonsjukdomar](https://swedeye.org)  
+[Öron- Näs- och Halssjukdomar](https://www.svenskonh.se)  
+[Audiologi](https://slf.se/smaf/)  
+[Foniatri](https://www.foniater.se)  
+[Barn- och ungdomskirurgi](https://slf.se/svensk-barnkirurgisk-forening/)  
 
-https://neurologforeningen.org  
-https://slf.se/sfrm/  
-https://www.sls.se/svenskneurofysiologi/  
-http://www.swedishneurosurgicalsociety.se  
+[Neurologi](https://neurologforeningen.org)  
+[Rehabiliteringsmedicin](https://slf.se/sfrm/)  
+[Klinisk neurofysiologi](https://www.sls.se/svenskneurofysiologi/)  
+[Neurokirurgi](http://www.swedishneurosurgicalsociety.se)  
 
-https://www.svenskpsykiatri.se  
-https://www.srpf.se  
-https://slf.se/sfbup/  
-https://svenskberoendemedicin.se  
-https://aldrepsykiatri.se  
+[Psykiatri](https://www.svenskpsykiatri.se)  
+[Rättspsykiatri](https://www.srpf.se)  
+[Barn- och ungdomspsykiatri](https://slf.se/sfbup/)  
+[Beroendemedicin](https://svenskberoendemedicin.se)  
+[Äldrepsykiatri](https://aldrepsykiatri.se)  
 
-https://www.svenskbarnsmartforening.se  
-https://www.sfkn.se  
-http://www.swedishtrauma.se  
-https://huvudvarkssallskapet.se  
-https://sfai.se/delforeningar/sfulai/om-upp-gruppen/  
+[Klinisk nutrition](https://www.sfkn.se)  
+[Barnsmärtläkare](https://www.svenskbarnsmartforening.se)  
+[Anestesi och intensivvård ultraljud](https://sfai.se/delforeningar/sfulai/om-upp-gruppen/)  
+[Traumamedicin](http://www.swedishtrauma.se)  
+[Huvudvärk](https://huvudvarkssallskapet.se)  
+
