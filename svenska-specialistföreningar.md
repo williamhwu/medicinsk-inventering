@@ -1,3 +1,9 @@
+[SLF](https://slf.se)  
+[SLF Student](https://slf.se/student/)  
+[SLS](https://www.sls.se/)  
+[SLS KUF](https://www.sls.se/kuf/)  
+[MF](https://medicinskaforeningen.se/)  
+[LS](https://lakarsektionen.se/)  
 
 [Allmänmedicin](https://sfam.se)  
 [Arbets- och miljömedicin](https://slf.se/svensk-arbets-och-miljomedicinsk-forening/)  
@@ -73,4 +79,3 @@
 [Anestesi och intensivvård ultraljud](https://sfai.se/delforeningar/sfulai/om-upp-gruppen/)  
 [Traumamedicin](http://www.swedishtrauma.se)  
 [Huvudvärk](https://huvudvarkssallskapet.se)  
-
