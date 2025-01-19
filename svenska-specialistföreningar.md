@@ -24,7 +24,6 @@
 [Klinisk mikrobiologi](https://www.mikrobiologi.net/homepage/homepage.php)  
 [Klinisk immunologi och transfusionsmedicin](https://www.kitm.se/category/nyheter/)  
 [Klinisk patologi](https://svfp.se)  
-[Klinisk cytologi](https://www.svfkc.se)  
 [Klinisk farmakologi](https://www.sls.se/sfbkf/)  
 [Medicinsk genetik](https://sfmg.se)  
 
@@ -37,7 +36,6 @@
 [Njurmedicin](https://njurmed.se)  
 [Geriatrik](https://svenskgeriatriskforening.se)  
 [Allergologi](https://www.sffa.nu/ssa/)  
-[Trombos och hemostas](https://www.ssth.se)  
 
 [Akutmedicin](https://slf.se/swesem/)  
 [Dermatologi och venereologi](https://www.ssdv.se)  
@@ -74,8 +72,19 @@
 [Beroendemedicin](https://svenskberoendemedicin.se)  
 [Äldrepsykiatri](https://aldrepsykiatri.se)  
 
+[Klinisk cytologi](https://www.svfkc.se)  
 [Klinisk nutrition](https://www.sfkn.se)  
+[Hypertoni, stroke och vaskulär medicin](https://hypertoni.org)  
+[Trombos och hemostas](https://www.ssth.se)  
 [Barnsmärtläkare](https://www.svenskbarnsmartforening.se)  
 [Anestesi och intensivvård ultraljud](https://sfai.se/delforeningar/sfulai/om-upp-gruppen/)  
+[Maxillofacialkirurgi](https://www.maxillofacialkirurgi.se)  
 [Traumamedicin](http://www.swedishtrauma.se)  
+[Andrologi](https://svenskandrologi.se/sjukvardspersonal/)  
 [Huvudvärk](https://huvudvarkssallskapet.se)  
+[Fysisk aktivitet och idrottsmedicin](https://www.sls.se/sfaim/)  
+[Medicinsk informatik](https://www.sls.se/sfmi)  
+
+Lokalföreningar  
+Yrkesföreningar  
+Intresseföreningar  
